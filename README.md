@@ -1,3 +1,3 @@
 # MIDI-TabsPlayer-Synthesizer
 
-* MusicSheetReader : plays custom tabs from a txt file
+* JavaProg.MusicSheetReader : plays custom tabs from a txt file
