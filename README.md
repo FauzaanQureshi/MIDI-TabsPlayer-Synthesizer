@@ -8,8 +8,6 @@
 
 # Instructions to Run :
 
-* Synthesizer:
-         java -Djava.library.path=. JavaProg.TestSound
+* Synthesizer:```java -Djava.library.path=. JavaProg.TestSound```
 
-* MusicSheetReader:
-         java JavaProg.MusicSheetReader 
+* MusicSheetReader:```java JavaProg.MusicSheetReader```
