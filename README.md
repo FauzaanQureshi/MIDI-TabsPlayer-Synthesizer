@@ -5,3 +5,8 @@
   * plays notes by taking input from keyboard.
   * User can choose instrument from 128 sound bank
   * accesses getch() from C using native library.
+
+# Instructions to Run :
+
+* Synthesizer: java -Djava.library.path=. JavaProg.TestSound
+* MusicSheetReader: java JavaProg.MusicSheetReader 
